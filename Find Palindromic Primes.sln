@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find Palindromic Primes", "Find Palindromic Primes.csproj", "{17DEDDDC-5927-4303-A12D-AE72A9C52868}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindromic Prime Test", "..\Palindromic Prime Test\Palindromic Prime Test.csproj", "{A10DAD94-D98B-4669-B74E-89F3AE4663EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{17DEDDDC-5927-4303-A12D-AE72A9C52868}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17DEDDDC-5927-4303-A12D-AE72A9C52868}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17DEDDDC-5927-4303-A12D-AE72A9C52868}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A10DAD94-D98B-4669-B74E-89F3AE4663EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A10DAD94-D98B-4669-B74E-89F3AE4663EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A10DAD94-D98B-4669-B74E-89F3AE4663EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A10DAD94-D98B-4669-B74E-89F3AE4663EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
